@@ -1,0 +1,198 @@
+body{
+    /*color de fondo*/
+    background-color: #92A8D1;
+    /*letras*/
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+   
+}
+
+.SVTI{
+    width: 100%;
+    height: 100%;
+}
+
+p{
+    color: #3a4c63 ;
+}
+/* PARA ALG MAS ESPECIFICO se crea una class en el codigo de html*/
+.titulo{
+    color: #F7CAC9;
+    font-family:'Barrio', cursive;
+    font-size:800%;
+}
+
+.todo1{
+    font-family: 'Rambla', sans-serif;
+    color: black;
+    font-size: large;
+   text-align: justify;
+
+}
+.parrafo1{
+    font-family: 'Londrina Solid', cursive;
+    font-size:large;
+
+}
+.say{
+    font-family: 'Chewy', cursive;
+    font-size: xx-large;
+    line-height: 100%;
+    color:#F7CAC9;
+    font-weight: 900;
+    font-variant:inherit;
+    
+}
+
+.titulo1{
+    font-family: 'Londrina Solid', cursive;
+    font-size:x-large;
+}
+
+.miembros{
+    font-family:'Londrina Solid', cursive;
+    color:#3a4c63;
+    font-size:xx-large;
+}
+
+.parrafo2{
+    font-family: 'Londrina Solid', cursive;
+    font-size:medium;
+
+}
+.parrafo3{
+    font-family: 'Londrina Solid', cursive;
+    font-size:medium;
+
+}
+.parrafo4{
+    font-family: 'Londrina Solid', cursive;
+    font-size:medium;
+
+}
+
+.HSVT{
+    font-family:'Barrio', cursive;
+    font-size: xx-large;
+    color:#3a4c63;
+    
+}
+
+.imgt{
+    width: 448px;
+    height: 314px;
+}
+
+.SEVENTEEN{
+    font-family: 'Londrina Solid', cursive;
+    font-size:x-large;
+    color:#3a4c63;
+}
+
+.ORIGEN{
+    font-family:'Chewy', cursive;
+}
+
+.Seventeen1{
+    font-family:'Chewy', cursive;
+    color: #3a4c63;
+
+}
+
+
+.pre-debut{
+    font-family: 'Londrina Solid', cursive;
+    font-size:x-large;
+    color:#3a4c63;
+
+}
+.pre-debut1{
+    text-align: justify;
+    font-family: 'Rambla', sans-serif;
+    color: black;
+    
+}
+
+.Debut{
+    font-family: 'Londrina Solid', cursive;
+    font-size:x-large;
+    color:#3a4c63;
+
+}
+
+
+.debut1{
+    text-align: justify;
+    font-family: 'Rambla', sans-serif;
+    color: black;
+}
+
+
+.discografia{
+    font-family: 'Londrina Solid', cursive;
+    font-size:x-large;
+    color:#3a4c63;
+}
+
+.discografia1{
+    text-align: justify;
+    font-family: 'Rambla', sans-serif;
+    color: black;
+}
+
+.enlace{
+    font-family: 'Londrina Solid', cursive;
+    font-size:x-large;
+    color:#3a4c63;
+
+}
+
+.enlace1{
+    text-align: justify;
+    font-family: 'Rambla', sans-serif;
+    color: black;
+}
+.enlace2{
+    text-align: justify;
+    font-family: 'Londrina Solid', cursive;
+    color:#3a4c63;
+}
+.Going{
+    font-family: 'Londrina Solid', cursive;
+    font-size:x-large;
+    color:#3a4c63;
+
+}
+
+.Going1{
+    text-align: justify;
+    font-family: 'Rambla', sans-serif;
+    color: black;
+    
+} 
+
+
+.pregunta{
+    font-family: 'Graduate', cursiva;
+    font-size:larger
+}
+
+.RST{
+    font-family:'Londrina Solid', cursive;
+    font-size: large
+
+}
+
+.RST1{
+    font-family:'Londrina Solid', cursive; 
+    font-size: large
+}
+
+.g23{
+    width: 48%;
+}
+
+
+
+  
